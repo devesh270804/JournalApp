@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "61819287288",
+    "firebase_url": "https://fir-d353e-default-rtdb.firebaseio.com",
+    "project_id": "fir-d353e",
+    "storage_bucket": "fir-d353e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61819287288:android:7de453954313038438ad0d",
+        "android_client_info": {
+          "package_name": "com.example.firebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8P9irOcVvEei0XeI4dr3JKnrFDaF8Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61819287288:android:44e91a89d9d61a5e38ad0d",
+        "android_client_info": {
+          "package_name": "com.example.journalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8P9irOcVvEei0XeI4dr3JKnrFDaF8Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
